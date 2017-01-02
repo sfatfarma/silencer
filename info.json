@@ -1,0 +1,20 @@
+{
+    "name" : "Silencer Comment Management System",
+    "slug" : "silencer-comment-management",
+    "homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
+    "download_url" : "https://rawgit.com/sfatfarma/silencer/master/silencer-comment-management.zip",
+    
+    "version" : "1.0",
+    "requires" : "2.7",
+    "tested" : "4.7",
+    "last_updated" : "2017-01-10",
+    
+    "author" : "CodeRevolution",
+    "author_homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
+    
+    "sections" : 
+    {
+        "description" : "<p>This plugin will give you the ability to manage the way how comments are hadled in WordPress.</p>",
+        "changelog" : "<strong>Version 1.0 Release Date 2017-01-10</strong> <ul> <li>First version released!</li> </ul>"
+    }
+}
