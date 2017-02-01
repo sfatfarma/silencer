@@ -4,10 +4,10 @@
     "homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
     "download_url" : "https://rawgit.com/sfatfarma/silencer/master/silencer-comment-management.zip",
     
-    "version" : "1.0",
+    "version" : "1.1",
     "requires" : "2.7",
     "tested" : "4.7",
-    "last_updated" : "2017-01-10",
+    "last_updated" : "2017-02-01",
     
     "author" : "CodeRevolution",
     "author_homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
@@ -15,6 +15,6 @@
     "sections" : 
     {
         "description" : "<p>This plugin will give you the ability to manage the way how comments are hadled in WordPress.</p>",
-        "changelog" : "<strong>Version 1.0 Release Date 2017-01-10</strong> <ul> <li>First version released!</li> </ul>"
+        "changelog" : "<strong>Version 1.0 Release Date 2017-01-10</strong> <ul> <li>First version released!</li> </ul><strong>Version 1.1 Release Date 2017-02-01</strong> <ul> <li>Added the ability to limit comments maximum and minimum length</li><li>Added the ability to disable HTML in comments</li> <li>Some minor fixes and enhancements</li></ul>"
     }
 }
